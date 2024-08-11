@@ -2,7 +2,6 @@
 
 This is a demo application showing how to build a realtime website traffic monitor using [Python](https://www.python.org/) and [Pusher](https://pusher.com/). You can read about how it was created on [Pusher's blog](https://pusher.com/tutorials/web-traffic-monitor-python).
 
-
 ## Prerequisites
 
 What things you need to install the software.
